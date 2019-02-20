@@ -25,11 +25,7 @@ def my_collect(array)
     i += 1
   end
   name_collection
-end
  
   
-  
-  
-  
-end 
+  end 
 
