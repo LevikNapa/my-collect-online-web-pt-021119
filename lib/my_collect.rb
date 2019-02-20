@@ -1,9 +1,9 @@
 def my_collect(array)
   
-  my_collect.collect do |languages|
-    my_collect.upcase
+  # my_collect.collect do |languages|
+  #   my_collect.upcase
     
-  end
+  # end
     
 # i = 0 
 # collection = []
