@@ -1,4 +1,10 @@
 def my_collect(array)
+  
+  array.collect do |languages|
+    array.upcase
+    
+  end
+    
 # i = 0 
 # collection = []
 # while i < array
