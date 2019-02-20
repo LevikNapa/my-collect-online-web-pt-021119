@@ -1,13 +1,13 @@
 def my_collect(array)
 i = 0 
-collection = []
+# collection = []
 while i < array
 yield array[i]
 
-lang.upcase 
-lang.upcase << collection
+# lang.upcase 
+# lang.upcase << collection
  
-i += 1
+# i += 1
  
 end
  
