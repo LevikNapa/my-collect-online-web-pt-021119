@@ -2,8 +2,10 @@ def my_collect(array)
 i = 0 
 collection = []
 while i < array
-array.upcase 
-array.upcase << collection
+yield array[i]
+
+lang.upcase 
+lang.upcase << collection
  
 i += 1
  
