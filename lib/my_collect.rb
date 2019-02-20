@@ -1,7 +1,7 @@
 def my_collect(array)
  i = 0 
  collection = []
- while i < array[i]
+ while i < array
  array.upcase 
  array.upcase << collection
  
